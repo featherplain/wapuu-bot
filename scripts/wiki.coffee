@@ -10,7 +10,7 @@
 class Wiki
   url: 'https://github.com/featherplain/wct2015/wiki'
   getUrl: () ->
-    return ':open_book:Wikiだぷー♪ ' + this.url
+    return ':open_book: Wikiだぷー♪ ' + this.url
 
 
 module.exports = (robot) ->
